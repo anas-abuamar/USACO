@@ -1,1 +1,2 @@
-# USACO
+# Advanced Training for IOI
+## USACO
