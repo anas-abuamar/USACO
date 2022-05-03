@@ -3,6 +3,6 @@
 
 | Problem Solution                                          | Problem Statement                              | Round               
 |:---------------------------------------------------------:|------------------------------------------------|:-------------------:|
-| [here](https://github.com/anas-abuamar/USACO/blob/main/Angry%20Cows.cpp) | [Angry Cows](http://usaco.org/index.php?page=viewproblem2&cpid=594) | USACO 2016 January Contest, Silver | 2021 |
+| [here](Angry%20Cows.cpp) | [Angry Cows](http://usaco.org/index.php?page=viewproblem2&cpid=594) | USACO 2016 January Contest, Silver | 2021 |
 
 [a link](https://github.com/user/repo/blob/branch/other_file.md)
