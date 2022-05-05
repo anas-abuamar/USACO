@@ -1,6 +1,7 @@
 /*
   USACO 2018 US Open Contest, Silver
   Problem 2. Lemonade Line
+  http://www.usaco.org/index.php?page=viewproblem2&cpid=835
 */
 #include <bits/stdc++.h>
 using namespace std;
