@@ -1,3 +1,9 @@
+/*
+  USACO 2016 January Contest, Silver
+  Problem 1. Angry Cows
+  http://usaco.org/index.php?page=viewproblem2&cpid=594
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 #define   IOS   ios_base::sync_with_stdio(0), cin.tie(0), cout.tie(0);srand(chrono::high_resolution_clock::now().time_since_epoch().count());
