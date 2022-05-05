@@ -82,7 +82,7 @@ void solve(){
             if (!vis[i][j]){
                rec2(i,j,a[i][j],a[i][j-1]);
                two = max(two,cur);
-               if (cur==n*n)break;
+               if (cur>=n*n)break;
                memset(vis,false,sizeof(vis));
             }
          }
