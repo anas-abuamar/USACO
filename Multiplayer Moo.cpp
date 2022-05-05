@@ -60,7 +60,7 @@ void setIO(string name = "") {if(sz(name)){freopen((name+".in").c_str(), "r", st
 
 void solve(){
    // Think twice code once
-   // Educational بسم الله الرحمن الرحيم
+   // بسم الله الرحمن الرحيم
    cin >> n;
    for (int i=0;i<n;i++){
       for (int j=0;j<n;j++){
