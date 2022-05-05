@@ -49,7 +49,7 @@ void solve(){
 }
 int32_t main() {
     IOS;
-    setIO("angry");
+    ///setIO("angry");
     int _=1;
     //cin>>_;
     for(int tc=1;tc<=_;tc++){
