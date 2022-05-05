@@ -55,5 +55,4 @@ int32_t main() {
         // cout << "Case #" << tc << ": ";
         solve();
     }
-
 }
