@@ -1,3 +1,9 @@
+/*
+  USACO 2018 US Open Contest, Silver
+  Problem 1. Out of Sorts
+  http://www.usaco.org/index.php?page=viewproblem2&cpid=834
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 #define   IOS   ios_base::sync_with_stdio(0), cin.tie(0), cout.tie(0);srand(chrono::high_resolution_clock::now().time_since_epoch().count());
