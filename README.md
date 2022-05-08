@@ -8,4 +8,4 @@
 |4-5-2022|[here](Out%20of%20Sorts.cpp) | [Out of sorts](http://www.usaco.org/index.php?page=viewproblem2&cpid=834) |USACO 2018 US Open Contest, Silver| sort
 |5-5-2022|[here](Lemonade%20Line.cpp)  | [Lemonade Line](http://usaco.org/index.php?page=viewproblem2&cpid=835) |USACO 2018 US Open Contest, Silver| Debug time
 |5-5-2022|[here](Multiplayer%20Moo.cpp)  | [Multiplayer Moo](http://usaco.org/index.php?page=viewproblem2&cpid=836) |USACO 2018 US Open Contest, Silver| Recursion
-|6-5-2022|[here](COW%20Operations.cpp) |[COW Operations](http://www.usaco.org/index.php?page=viewproblem2&cpid=1232)|USACO 2022 US Open Contest, Silver|
+|6-5-2022|[here](COW%20Operations.cpp) |[COW Operations](http://www.usaco.org/index.php?page=viewproblem2&cpid=1232)|USACO 2022 US Open Contest, Silver| 
