@@ -1,3 +1,9 @@
+/*
+   http://usaco.org/index.php?page=viewproblem2&cpid=570
+   Problem 1. Switching on the Lights
+  ~2H 
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 #define   IOS   ios_base::sync_with_stdio(0), cin.tie(0), cout.tie(0);srand(chrono::high_resolution_clock::now().time_since_epoch().count());
