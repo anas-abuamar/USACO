@@ -11,4 +11,4 @@
 |6-5-2022|[here](COW%20Operations.cpp) |[COW Operations](http://www.usaco.org/index.php?page=viewproblem2&cpid=1232)|USACO 2022 US Open Contest, Silver| 
 |12-10-2022|[Stuck in a Rut](Stuck%20in%20a%20Rut.cpp) |[Stuck in a Rut](http://www.usaco.org/index.php?page=viewproblem2&cpid=1061)|USACO 2020 December Contest, Bronze| 
 |13-10-2022|[Block Game](Block%20Game.cpp) | [Block Game](http://www.usaco.org/index.php?page=viewproblem2&cpid=664)
-|13-10-2022|[Milk Measurement][Milk%20Measurement.cpp]| [](http://www.usaco.org/index.php?page=viewproblem2&cpid=761)|| |Simulation|
+|13-10-2022|[Milk Measurement](Milk%20Measurement.cpp)| [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=761)|| |Simulation|
