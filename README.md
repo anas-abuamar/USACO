@@ -14,3 +14,4 @@
 |13-10-2022|[Milk Measurement](Milk%20Measurement.cpp) | [In Usaco](http://www.usaco.org/index.php?page=viewproblem2&cpid=761)| ||  |Simulation|
 |13-10-2022|[Mowing the Field](Mowing%20the%20Field.cpp)| [In Usaco](http://www.usaco.org/index.php?page=viewproblem2&cpid=593)| 
 |11-11-2022|[Livestock Lineup](Livestock.cpp) | [In USACO](http://www.usaco.org/index.php?page=viewproblem2&cpid=965)
+|11-11-2022|[Twenty-four](Twenty-four.cpp) | [DM::OJ](https://dmoj.ca/problem/ccc08s4) || |recursion|
